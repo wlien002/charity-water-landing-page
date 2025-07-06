@@ -1,1 +1,1 @@
-# charity-water-landing-page.github.io
+# charity-water-landing-page
